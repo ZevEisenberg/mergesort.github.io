@@ -15,6 +15,8 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- [The Most Precious Resource Is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
+- ⭐️ [The Internet Is Flat](https://warzel.substack.com/p/the-internet-is-flat)
 - [How To Be Polite](https://medium.com/s/story/how-to-be-polite-9bf1e69e888c)
 - ⭐️ [Slack](https://fs.blog/2021/05/slack/), [notes](https://twitter.com/mergesort/status/1391435483893452801?s=21)
 - ⭐️ [How Will You Measure Your Life](https://hbr.org/2010/07/how-will-you-measure-your-life), [notes](https://twitter.com/mergesort/status/1393944871921229824)
