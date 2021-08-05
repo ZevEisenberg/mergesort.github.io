@@ -15,6 +15,8 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- ⭐️ [The Unreasonable Effectiveness Of Just Showing Up Everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday)
+- [Privacy: The Sequel](https://www.theawl.com/2015/09/privacy-the-sequel/)
 - [The Most Precious Resource Is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
 - ⭐️ [The Internet Is Flat](https://warzel.substack.com/p/the-internet-is-flat)
 - [How To Be Polite](https://medium.com/s/story/how-to-be-polite-9bf1e69e888c)
