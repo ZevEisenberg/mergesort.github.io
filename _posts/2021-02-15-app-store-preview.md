@@ -1,7 +1,7 @@
 ---
 layout: post
 title: App Store [P]review
-tags: [society, industry, featured]
+tags: [society, industry]
 ---
 
 Apple's been [in the news](https://9to5mac.com/2021/02/12/developer-reveals-fake-app-store-reviews-and-scams/) quite a bit lately over concerns that many apps on the App Store are [little more than scams](https://twitter.com/keleftheriou/status/1356011069395755009). Some of these apps aren't even functional, they don't provide anything more than a screen with no functionality, only a button to purchase an indefinite weekly subscription. Many developers and consumers are confused or surprised that Apple isn't catching these scams, given Apple has a process for App Review which every app must go through, and while I'm not surprised given the breadth of the problem, I find myself thinking it's very problematic for the digital economy and consumer confidence in buying services through what once was considered a safe place.
