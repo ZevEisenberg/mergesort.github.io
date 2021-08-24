@@ -72,6 +72,7 @@ extension Color {
             self.assetCatalogColor(named: "quaternary")
         }
     }
+
 }
 ```
 
@@ -142,7 +143,6 @@ struct HeaderView: View {
 	}
 
 }
-
 ```
 
 Now accessing our colors is a nothing more than two lines of code, how slick is that?
