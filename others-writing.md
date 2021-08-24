@@ -49,3 +49,5 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 - [Homesteading The Twittersphere](https://alexdanco.com/2020/08/21/homesteading-the-twittersphere/)
 - [A Culture Canceled](https://americancompass.org/the-commons/a-culture-canceled/), [notes](https://twitter.com/mergesort/status/1289033220365987840)
 - [Change at Scale](https://www.foureyes.me/post/change-at-scale/)
+- ⭐️ [We Don't Do That Here](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
+
