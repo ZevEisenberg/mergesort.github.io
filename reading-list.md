@@ -21,6 +21,7 @@ order: 3
 
 ### 2021
 
+- 🌟 [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://smile.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292)
 - [Good Prose: The Art of Nonfiction](https://smile.amazon.com/Good-Prose-Nonfiction-Tracy-Kidder/dp/0812982150)
 - 🌟 [Healing Trauma: A Pioneering Program for Restoring the Wisdom of Your Body](https://smile.amazon.com/Healing-Trauma-Pioneering-Program-Restoring/dp/159179658X)
 - 🌟 [The Scout Mindset](https://smile.amazon.com/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556)
