@@ -37,58 +37,64 @@ extension Color {
         let name: String
 
         var mainBackground: Color {
-            self.assetCatalogColor(named: "background-main")
+            Color(fromPalette: self.name, semanticName: "background-main")
         }
 
         var midBackground: Color {
-            self.assetCatalogColor(named: "background-mid")
+            Color(fromPalette: self.name, semanticName: "background-mid")
         }
 
         var alternativeBackground: Color {
-            self.assetCatalogColor(named: "background-alt")
+            Color(fromPalette: self.name, semanticName: "background-alt")
         }
 
         var primaryText: Color {
-            self.assetCatalogColor(named: "text-primary")
+            Color(fromPalette: self.name, semanticName: "text-primary")
         }
 
         var alternativeText: Color {
-            self.assetCatalogColor(named: "text-alt")
+            Color(fromPalette: self.name, semanticName: "text-alt")
         }
 
         var primary: Color {
-            self.assetCatalogColor(named: "primary")
+            Color(fromPalette: self.name, semanticName: "primary")
         }
 
         var secondary: Color {
-            self.assetCatalogColor(named: "secondary")
+            Color(fromPalette: self.name, semanticName: "secondary")
         }
 
         var tertiary: Color {
-            self.assetCatalogColor(named: "tertiary")
+            Color(fromPalette: self.name, semanticName: "tertiary")
         }
 
         var quaternary: Color {
-            self.assetCatalogColor(named: "quaternary")
+            Color(fromPalette: self.name, semanticName: "quaternary")
         }
     }
 
 }
 ```
 
-This is a pretty standard palette and should cover most of the use cases you'll encounter in building an app. You can modify it to your needs, but the important thing is that the colors you choose need to match the names of the colors you declared in your asset catalog. But what is this `assetCatalogColor` function?
+This is a pretty standard palette and should cover most of the use cases you'll encounter in building an app. You can modify it to your needs, but the important thing is that the colors you choose need to match the names of the colors you declared in your asset catalog. But what is this `Color(fromPalette:semanticName:)` initializer?
 
 ```swift
-private func assetCatalogColor(named semanticColor: String) -> Color {
-    #if os(macOS)
-        return Color(NSColor(named: "\(self.name)/\(semanticColor)")!)
-    #else
-        return Color(UIColor(named: "\(self.name)/\(semanticColor)")!)
-    #endif
+private extension Color {
+
+    init(fromPalette palette: String, semanticName: String) {
+        #if os(macOS)
+        self.init(NSColor(named: "\(palette)/\(semanticName)")!)
+        #else
+        self.init(UIColor(named: "\(palette)/\(semanticName)")!)
+        #endif
+    }
+
 }
 ```
 
-The `assetCatlogColor` function lives in `Color.Palette`, and it takes advantage of our namespaced folder structure to pull out colors from the asset catalog. `self.name` is the name of our theme, and `semanticColor` is the name of the color we're pulling out, such as `primary`, `secondary`, or `background-main`. Combining the two with a `/`, we'll get the `primary`, `secondary`, or `background-main` color from our current theme. All that's left is to define the themes we'll be constructing.
+You can just as easily use a private method in `Color.Palette`, something like `private func assetCatalogColor(semanticName: String)`. I happen to prefer the ergonomics of a custom initializer, and this whole post is about improving ergonomics, so let's run with that.
+
+This initializer lives in `Color.Palette` and takes advantage of our namespaced folder structure to pull out colors from the asset catalog. `palette` unsurprisingly is the name of our color palette, and `semanticName` is the name of the color we're pulling out of it, such as `primary`, `secondary`, or `background-main`. Combining the two with a `/`, we'll get the `primary`, `secondary`, or `background-main` color from our current theme. All that's left is to define the themes we'll be constructing.
 
 ```swift
 extension Color.Palette {
