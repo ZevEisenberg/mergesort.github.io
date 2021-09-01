@@ -7,7 +7,7 @@ order: 4
 
 ---
 
-### Other's people writing is inspiring.
+### Other people's writing is inspiring.
 
 Sometimes I read a piece of writing that has me thinking for days or weeks. It's silly to keep all of the good stuff with me and only me, so I decided to start documenting it for others who may be interested.
 
