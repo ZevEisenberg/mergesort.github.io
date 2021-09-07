@@ -24,7 +24,7 @@ Now it's time to create our color palettes. I'm showing you the Night palette I 
 
 ![An image displaying four color palettes from my app]({{ site.url }}/assets/img/color-palette-asset-catalog.jpg)
 
-**Do not miss this incredibly important step, guide your eyes towards the pink arrow on the right side of the image.** You must select the folder you're adding colors to and check the **Provides Namespace checkbox**. This is what will enable our code to have a clear and consistent naming structure, matching the folder’s name to our theme’s name.
+**Do not miss this incredibly important step, guide your eyes towards the pink arrow on the right side of the image.** You must select the folder you're adding colors to and check the **Provides Namespace checkbox**. This is what will enable our code to have a clear and consistent naming structure, matching the folder’s name to our palette's name.
 
 ---
 
@@ -94,7 +94,7 @@ private extension Color {
 
 You can just as easily use a private method in `Color.Palette`, something like `private func assetCatalogColor(semanticName: String)`. I happen to prefer the ergonomics of a custom initializer, and this whole post is about improving ergonomics, so let's run with that.
 
-This initializer lives in `Color.Palette` and takes advantage of our namespaced folder structure to pull out colors from the asset catalog. `palette` unsurprisingly is the name of our color palette, and `semanticName` is the name of the color we're pulling out of it, such as `primary`, `secondary`, or `background-main`. Combining the two with a `/`, we'll get the `primary`, `secondary`, or `background-main` color from our current theme. All that's left is to define the themes we'll be constructing.
+This initializer lives in `Color.Palette` and takes advantage of our namespaced folder structure to pull out colors from the asset catalog. `palette` unsurprisingly is the name of our color palette, and `semanticName` is the name of the color we're pulling out of it, such as `primary`, `secondary`, or `background-main`. Combining the two with a `/`, we'll get the `primary`, `secondary`, or `background-main` color from our current palette. All that's left is to define the palettes we'll be constructing.
 
 ```swift
 extension Color.Palette {
@@ -110,7 +110,7 @@ extension Color.Palette {
 }
 ```
 
-Constructing themes is pretty easy. All you have to do is instantiate a `Color.Palette` object with a name. That name must match the folder name, so in my app the theme name for `Night` will be `Night` because the folder we chose for that theme was `"Night"`.
+Constructing palettes is pretty easy. All you have to do is instantiate a `Color.Palette` object with a name. That name must match the folder name, so in my app the palette name for `Night` will be `Night` because the folder we chose for that palete was `"Night"`.
 
 ---
 
@@ -120,7 +120,7 @@ But if we're building our app in SwiftUI, we can go the extra mile with just a f
 
 ```swift
 private struct ColorPaletteKey: EnvironmentKey {
-    // We need to default to a theme so without any particular preference let's pick `day`
+    // We need to default to a palette so without any particular preference let's pick `day`
     static let defaultValue = Color.Palette.day
 }
 
