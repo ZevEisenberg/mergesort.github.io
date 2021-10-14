@@ -15,6 +15,7 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- [Reasons To Not Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous)
 - [The Internet's Original Sin](https://warzel.substack.com/p/the-internets-original-sin)
 - ⭐️ [The Unreasonable Effectiveness Of Just Showing Up Everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday)
 - [Privacy: The Sequel](https://www.theawl.com/2015/09/privacy-the-sequel/)
