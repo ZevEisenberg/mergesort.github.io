@@ -15,6 +15,7 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- [That Which Is Unique, Breaks](https://simonsarris.substack.com/p/that-which-is-unique-breaks)
 - [Reasons To Not Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous)
 - [The Internet's Original Sin](https://warzel.substack.com/p/the-internets-original-sin)
 - ⭐️ [The Unreasonable Effectiveness Of Just Showing Up Everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday)
@@ -52,4 +53,5 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 - [A Culture Canceled](https://americancompass.org/the-commons/a-culture-canceled/), [notes](https://twitter.com/mergesort/status/1289033220365987840)
 - [Change at Scale](https://www.foureyes.me/post/change-at-scale/)
 - ⭐️ [We Don't Do That Here](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
+- ⭐️ [Nicomachean Ethics](https://buttondown.email/letters-to-j/archive/022-nicomachean-ethics)
 
