@@ -15,6 +15,7 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- ⭐️ [This Is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 - [What To Learn](https://danluu.com/learn-what/)
 - [That Which Is Unique, Breaks](https://simonsarris.substack.com/p/that-which-is-unique-breaks)
 - [Reasons To Not Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous)
