@@ -1,6 +1,6 @@
 ---
 layout: list
-title: The Good Stuff
+title: The Good Posts
 slug: featured
 menu: true
 order: 1
