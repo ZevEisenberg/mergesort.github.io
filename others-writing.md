@@ -15,6 +15,8 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- ⭐️ [The 8 Week Work Cycle With Sabbaticals](https://thefocuscourse.com/8-week-work-schedule)
+- [American Idle](https://www.eugenewei.com/blog/2021/2/15/american-idle)
 - ⭐️ [This Is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 - [What To Learn](https://danluu.com/learn-what/)
 - [That Which Is Unique, Breaks](https://simonsarris.substack.com/p/that-which-is-unique-breaks)
