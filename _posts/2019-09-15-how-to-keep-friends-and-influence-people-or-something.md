@@ -73,7 +73,7 @@ Let’s say Samantha shows up on my list today again, here are a few places my m
 **3. I haven’t spoken to Samantha in a while.**
 
 - 3b. I don’t really have the urge to talk to her, maybe we’re drifting apart?
-- 3c. Our last three conversations have all been the same, I should re-evaluate how much space I have for Samantha, maybe checking in every three months is a better place than every month?
+- 3c. Our last three conversations have all been the same, I should re-evaluate how much space I have for Samantha, maybe checking in every two months is a better pace than every month?
     
 
 Going through this thought process gives you an opportunity to rebalance your relationships as your life and friendships change. We assume that friends are forever, and to some extent that’s true. You’ll always carry them with you, but not equally at all times in your life. It’s worth figuring out how you can be the best friend to your best friends, so you can be at your best.
