@@ -15,6 +15,8 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- [Willingness To Look Stupid](https://danluu.com/look-stupid)
+- [Individuals Matter](https://danluu.com/people-matter)
 - ⭐️ [How To Help A Student Get Unstuck](https://offbyone.us/posts/how-to-help-a-student-get-unstuck/), [notes](https://twitter.com/mergesort/status/1457400527613014020)
 - ⭐️ [The 8 Week Work Cycle With Sabbaticals](https://thefocuscourse.com/8-week-work-schedule)
 - [American Idle](https://www.eugenewei.com/blog/2021/2/15/american-idle)
