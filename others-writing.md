@@ -15,6 +15,8 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- ⭐️ [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
+- [Local-First Software](https://www.inkandswitch.com/local-first.html)
 - [Willingness To Look Stupid](https://danluu.com/look-stupid)
 - [Individuals Matter](https://danluu.com/people-matter)
 - ⭐️ [How To Help A Student Get Unstuck](https://offbyone.us/posts/how-to-help-a-student-get-unstuck/), [notes](https://twitter.com/mergesort/status/1457400527613014020)
