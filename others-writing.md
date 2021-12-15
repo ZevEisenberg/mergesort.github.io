@@ -15,6 +15,7 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 
 ### 2021
 
+- [Even Swaps: A Rational Method for Making Trade-offs](https://hbr.org/1998/03/even-swaps-a-rational-method-for-making-trade-offs)
 - ⭐️ [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [Local-First Software](https://www.inkandswitch.com/local-first.html)
 - [Willingness To Look Stupid](https://danluu.com/look-stupid)

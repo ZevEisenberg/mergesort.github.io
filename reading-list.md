@@ -21,6 +21,7 @@ order: 3
 
 ### 2021
 
+- 🌟 [The Hitchhiker's Guide to the Galaxy](https://smile.amazon.com/Hitchhikers-Guide-Galaxy-Illustrated/dp/0593359445)
 - [Unwinding Anxiety](https://smile.amazon.com/Unwinding-Anxiety/dp/1785043633)
 - 🌟 [Valley of Genius](https://smile.amazon.com/Valley-Genius-Uncensored-History-Founders/dp/1455559024)
 - 🌟 [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://smile.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292)
