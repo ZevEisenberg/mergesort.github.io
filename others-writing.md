@@ -13,8 +13,15 @@ Sometimes I read a piece of writing that has me thinking for days or weeks. It's
 
 Position on this list serves no relation to the writing's worth, it's purely chronological.
 
+### 2022
+
+- [Intellectual Loneliness](https://perell.com/note/intellectual-loneliness/)
+- ⭐️ [Don't Waste The Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
+
 ### 2021
 
+- [The Problems of Privilege and Writing About Work](https://ez.substack.com/p/the-problems-of-privilege-and-writing)
+- [Writing Is Networking For Introverts](https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77)
 - [Even Swaps: A Rational Method for Making Trade-offs](https://hbr.org/1998/03/even-swaps-a-rational-method-for-making-trade-offs)
 - ⭐️ [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [Local-First Software](https://www.inkandswitch.com/local-first.html)
