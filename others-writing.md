@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Writing That Has Me Thinking
+title: Other's Writing That Has Me Thinking
 menu: true
 order: 4
 ---
@@ -14,7 +14,8 @@ Sometimes I read a piece of writing that has me thinking for days or weeks. It's
 Position on this list serves no relation to the writing's worth, it's purely chronological.
 
 ### 2022
-
+- ⭐️ [Mastering Deliberate Practice](https://davidhoang.substack.com/p/mastering-deliberate-practice)
+- [The Importance Of Small, Positive Interactions](https://leaddev.com/culture-engagement-motivation/importance-small-positive-interactions)
 - [Intellectual Loneliness](https://perell.com/note/intellectual-loneliness/)
 - ⭐️ [Don't Waste The Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
 
