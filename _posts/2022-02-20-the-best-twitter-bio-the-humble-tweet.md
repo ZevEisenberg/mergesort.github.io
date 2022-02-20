@@ -41,9 +41,13 @@ You may run into various popups asking for more information, feel free to ignore
 And that's actually it, there's no real step 2 beyond composing your tweet. But to save you some time I'll mention a few things that may seem unintuitive.
 
 A) Your first step for customizing the carousel is to add media. You can't start creating a card by updating the website destination; that will only appear after you've chosen media for your carousel.
+
 B) Website cards can customize the text that displays under a card's image, but app cards always display the app name and app category under the image.
+
 C) You’ll be asked to choose an app carousel or a web carousel, but don’t let that think you can't make one that mixes the two together.  To do this you'll need to choose a website carousel and for any app you want to add you'll use your app's App Store or Google Play URL and manually upload your app's icon.
+
 D) The Tweet Composer will default to making your tweet Promoted Only. If you want the composed tweet to show up on your profile timeline remember to uncheck the Promoted Only checkbox. It's worth noting that a Promoted Tweet is a real tweet, but you’ll only be able to find the tweet’s URL in the Twitter Ads dashboard.
+
 E) Cards do not render in third-party clients[^4], so if that's important to you I recommend including text and links in the body of the tweet. It doesn't look as good in native Twitter clients so it's your choice whether to prioritize this or not. 
 
 Now that you know how to build a fun carousel, I'd love to see you get creative. I can't wait to see what kind you come up with. 🎠

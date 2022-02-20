@@ -18,6 +18,7 @@ Position on this list serves no relation to the writing's worth, it's purely chr
 - [Stop Brainstorming](https://matthewstrom.com/writing/stop-brainstorming/)
 - ⭐️ [Everything Must Be Paid For Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/), [notes](https://twitter.com/mergesort/status/1485780129406197761)
 - ⭐️ [Mastering Deliberate Practice](https://davidhoang.substack.com/p/mastering-deliberate-practice)
+- [A Simple Plan to Solve All of America’s Problems](https://www.theatlantic.com/ideas/archive/2022/01/scarcity-crisis-college-housing-health-care/621221/)
 - [The Importance Of Small, Positive Interactions](https://leaddev.com/culture-engagement-motivation/importance-small-positive-interactions)
 - [Intellectual Loneliness](https://perell.com/note/intellectual-loneliness/)
 - ⭐️ [Don't Waste The Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/)
