@@ -21,6 +21,7 @@ order: 3
 
 ### 2022
 
+- 🌟 [Elephant In The Brain](https://smile.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)
 - [Life, the Universe and Everything](https://smile.amazon.com/Life-the-Universe-and-Everything/dp/152903454X)
 
 ### 2021
