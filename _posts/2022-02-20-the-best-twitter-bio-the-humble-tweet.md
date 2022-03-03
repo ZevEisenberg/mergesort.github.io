@@ -34,7 +34,7 @@ The process for building your own Twitter carousel is hidden away, but surprisin
 
 ![An image showing you where to find the tweet composer]({{ site.url }}/assets/img/twitter-tweets-composer.jpg)
 
-You may run into various popups asking for more information, feel free to ignore ‘em! The only popup you’ll see that you have to fill out is one asking you for your credit card information. [^1]
+You may run into various popups asking for more information, feel free to ignore ‘em! The only popup you’ll see that you have to fill out is one asking you to setup a payment method and campaign to unlock a Creatives menu. [^1] (**You really don't have to pay Twitter anything** to use the tools but you do need to have a credit card on file to use the Ads Tweet Composer.)
 
 ![An image of a popup telling you to add information for your business]({{ site.url }}/assets/img/twitter-business-popup.jpg)
 
@@ -52,7 +52,7 @@ E) Cards do not render in third-party clients[^4], so if that's important to you
 
 Now that you know how to build a fun carousel, I'd love to see you get creative. I can't wait to see what kind you come up with. 🎠
 
-[^1]: **You really don't have to pay Twitter anything** to use the tools but you will be asked to add a credit card.
+[^1]: To add a payment method: **1.** Click the `Create an ad` button. **2.** You may be prompted to confirm your timezone, then click `Let's go`. **3.** A popup will display asking you to `Choose your objective`. **4.** Exit this screen by clicking the `cancel` button in the bottom right corner of the screen. **5.** In the top right corner you will see your account name, clicking it will show a dropdown option that says `Add new payment method`. **6.** Add a credit or debit card and from now on you should see the Creatives menu that you need to access the Ads Tweet Composer.
 
 [^2]: I expect these links to change so I'm not particularly attached to them, and if I ever do change them I can always post an updated tweet. Alternatively using a link shortener is a good strategy for not having to change the underlying data.
 
