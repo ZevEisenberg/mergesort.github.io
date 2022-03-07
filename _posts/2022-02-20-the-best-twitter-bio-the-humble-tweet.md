@@ -52,7 +52,16 @@ E) Cards do not render in third-party clients[^4], so if that's important to you
 
 Now that you know how to build a fun carousel, I'd love to see you get creative. I can't wait to see what kind you come up with. 🎠
 
-[^1]: To add a payment method: **1.** Click the `Create an ad` button. **2.** You may be prompted to confirm your timezone, then click `Let's go`. **3.** A popup will display asking you to `Choose your objective`. **4.** Exit this screen by clicking the `cancel` button in the bottom right corner of the screen. **5.** In the top right corner you will see your account name, clicking it will show a dropdown option that says `Add new payment method`. **6.** Add a credit or debit card and from now on you should see the Creatives menu that you need to access the Ads Tweet Composer.
+[^1]:
+
+    To add a payment method: 
+  
+    1. Click the **Create an ad** button. 
+    2. You may be prompted to confirm your timezone, then click **Let's go**. 
+    3. A popup will display asking you to **Choose your objective**. 
+    4. Exit this screen by clicking the **cancel** button in the bottom right corner of the screen. 
+    5. In the top right corner you will see your account name, clicking it will show a dropdown option that says **Add new payment method**. 
+    6. Add a credit or debit card and from now on you should see the Creatives menu that you need to access the Ads Tweet Composer.
 
 [^2]: I expect these links to change so I'm not particularly attached to them, and if I ever do change them I can always post an updated tweet. Alternatively using a link shortener is a good strategy for not having to change the underlying data.
 
