@@ -58,7 +58,7 @@ And that's it. This process is quick, has depth to it, and provides a much more 
 
 ---
 
-This post was surprisingly difficult to write in a clear and concise manner without making a formal write up feel so formal, and not losing the message by being too informal. It really took a village so thank you to the plethora of people who helped by providing feedback and editing my drafts, most notably [Tamar Nachmany](twitter.com/tamarshmallows), [Amro Mousa](twitter.com/amdev), and [Brian Michel](twitter.com/brianmichel).
+This post was surprisingly difficult to write in a clear and concise manner without making a formal write up feel so formal, and not losing the message by being too informal. It really took a village so thank you to the plethora of people who helped by providing feedback and editing my drafts, most notably [Tamar Nachmany](https://twitter.com/tamarshmallows), [Amro Mousa](https://twitter.com/amdev), and [Brian Michel](https://twitter.com/brianmichel).
 
 [^1]: 
 
