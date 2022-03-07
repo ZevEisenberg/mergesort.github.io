@@ -56,6 +56,10 @@ Once the interview has wrapped up it's ok to take some time to figure out your t
 
 And that's it. This process is quick, has depth to it, and provides a much more accurate feel for what working with a person is like than a whiteboarding exercise. It's a flexible enough approach that you can tailor the interviews to your company's needs, and I would highly recommend doing so, reevaluating what's working and what isn't. We should always be reevaluating our interview processes because talent evaluation isn't easy and needs change as a company and the industry move forward, so if you have ideas for improvement I’d love for you to [share them](https://twitter.com/mergesort) with me.
 
+---
+
+This post was surprisingly difficult to write in a clear and concise manner without making a formal write up feel so formal, and not losing the message by being too informal. It really took a village so thank you to the plethora of people who helped by providing feedback and editing my drafts, most notably [Tamar Nachmany](twitter.com/tamarshmallows), [Amro Mousa](twitter.com/amdev), and [Brian Michel](twitter.com/brianmichel).
+
 [^1]: 
 
     There are a lot of tradeoffs when it comes to interviewing around preference, fairness, complexity, bias, and more. **To be upfront I won't cover any of that in this post**, but know that they were considered, and some are listed in the appendix below. I have another post planned about how every interview process is flawed and biased, but for now the most important thing to keep in mind is that every interview process, whether it's a take home project or writing code on a whiteboard provides both sides signal, but comes with tradeoffs. Tradeoffs are a necessity because there’s no fair way to evaluate in only a few hours what working with a candidate or a company will look like for the next few years, so it's important to acknowledge as a company which tradeoffs you're willing to make.
