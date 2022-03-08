@@ -1,6 +1,6 @@
 ---
 layout: list
-title: My Top Posts
+title: Top Posts
 slug: featured
 menu: true
 order: 1
