@@ -14,6 +14,7 @@ Sometimes I read a piece of writing that has me thinking for days or weeks. It's
 Position on this list serves no relation to the writing's worth, it's purely chronological.
 
 ### 2022
+- [The Creatory Economy](https://nadia.xyz/creator-economy)
 - ⭐️ [Micro-exercising Throughout The Day](https://mysticalsilicon.substack.com/p/micro-exercising-throughout-the-day)
 - [Stop Brainstorming](https://matthewstrom.com/writing/stop-brainstorming/)
 - ⭐️ [Everything Must Be Paid For Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/), [notes](https://twitter.com/mergesort/status/1485780129406197761)
