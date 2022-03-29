@@ -21,6 +21,7 @@ order: 3
 
 ### 2022
 
+- [Feminist Fight Club: A Survival Manual for a Sexist Workplace](https://smile.amazon.com/dp/0062689037)
 - 🌟 [Elephant In The Brain](https://smile.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)
 - [Life, the Universe and Everything](https://smile.amazon.com/Life-the-Universe-and-Everything/dp/152903454X)
 

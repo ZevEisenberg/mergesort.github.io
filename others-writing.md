@@ -14,6 +14,7 @@ Sometimes I read a piece of writing that has me thinking for days or weeks. It's
 Position on this list serves no relation to the writing's worth, it's purely chronological.
 
 ### 2022
+- ⭐️ [It's Just Oscars Takes All The Way Down](https://www.garbageday.email/p/its-just-oscars-takes-all-the-way)
 - ⭐️ [To Listen Well, Get Curious](https://www.benkuhn.net/listen/)
 - [Friendships Have Never Been Harder To Maintain](https://www.thecut.com/2022/03/friendships-after-pandemic.html)
 - [The Creatory Economy](https://nadia.xyz/creator-economy)
